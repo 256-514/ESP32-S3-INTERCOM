@@ -3,7 +3,7 @@ Half-Duplex communication device avalible only during a specified time interval.
 
 
 
-
+<div align="center">
 <img src="media/sound_test.jpg" alt="top level block diagram" width="300"/>
 
 Figure 1. Sound testing
