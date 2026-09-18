@@ -23,6 +23,11 @@ Figure 3. Used [I2S amplifier ](https://www.laskakit.cz/max98357-i2s-mono-zesilo
 Figure 4. Used [3W 4Ω speaker](https://www.laskakit.cz/reproduktor-3w-4-40mm/)
 
 <div align="center">
+<img src="media/prototype1.jpg" alt="top level block diagram" width="400"/>
+
+Figure 6. Prototype circuit on a breadboard
+
+<div align="center">
 <img src="media/sound_test.jpg" alt="top level block diagram" width="300"/>
 
-Figure 5. Sound testing
+Figure 7. Sound testing
