@@ -9,7 +9,7 @@ Figure 1. Used [ESP32-S3-DEVKit](https://www.laskakit.cz/laskakit-esp32-s3-devki
 
 <img src="media/mic.webp" alt="top level block diagram" width="250"/>  <img src="media/amp.webp" alt="top level block diagram" width="250"/>  <img src="media/spkr.webp" alt="top level block diagram" width="250"/>
 
-Figure 2. Used [I2S microphone](https://www.laskakit.cz/inmp441-modul-i2s-mikrofonu/)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ Figure 3. Used [I2S amplifier ](https://www.laskakit.cz/max98357-i2s-mono-zesilovac-3w/)‎ ‎ ‎ ‎‎‎ ‎  ‎‎  ‎ ‎‎ ‎ ‎   Figure 4. Used [3W 4Ω speaker](https://www.laskakit.cz/reproduktor-3w-4-40mm/)
+Figure 2. Used [I2S microphone](https://www.laskakit.cz/inmp441-modul-i2s-mikrofonu/)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ Figure 3. Used [I2S amplifier ](https://www.laskakit.cz/max98357-i2s-mono-zesilovac-3w/)‎ ‎ ‎ ‎‎‎ ‎  ‎‎  ‎ ‎‎ ‎  ‎   Figure 4. Used [3W 4Ω speaker](https://www.laskakit.cz/reproduktor-3w-4-40mm/)
 
 
 
