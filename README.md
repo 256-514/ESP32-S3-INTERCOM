@@ -1,6 +1,7 @@
 # ESP32-S3-INTERCOM
 - Full-Duplex communication device.
 - To maximize energy savings, it allows audio transmission only during a specific time interval.
+- Power supply: rechargeable [LiPol 3,7 V battery](https://www.laskakit.cz/laskakit-lipol-baterie-653060-1800mah-3-7v-jst-sh-1-0/) 
 
 <div align="center">
 <img src="media/S3-DEVKIT_Pinout.png" alt="top level block diagram" width="800"/>
