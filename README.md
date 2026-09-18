@@ -1,5 +1,6 @@
 # ESP32-S3-INTERCOM
-Full-Duplex communication device avalible only during a specified time interval.
+- Full-Duplex communication device.
+- To maximize energy savings, it allows audio transmission only during a specific time interval.
 
 <div align="center">
 <img src="media/S3-DEVKIT_Pinout.png" alt="top level block diagram" width="800"/>
