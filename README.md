@@ -7,18 +7,21 @@
 
 Figure 1. Used [ESP32-S3-DEVKit](https://www.laskakit.cz/laskakit-esp32-s3-devkit/?variantId=13145) (antenna: PCB)
 
-<div align="center">
-<img src="media/mic.webp" alt="top level block diagram" width="200"/>
+
+<img src="images/blok_schema.png" alt="top level block diagram" width="250"/>   <img src="images/sensor_connection.jpg" alt="top level block diagram" width="286"/>
+
+Obr. 2 Blokové schéma funkce ‎ ‎ ‎ ‎ ‎ ‎‎  ‎‎ ‎  Obr. 3 Propojení HC-SR04 s piny desky Nexys A7-50t *(zdroj: GitHub [vhdl-course Tomas Fryza](https://github.com/tomas-fryza/vhdl-labs/blob/master/lab8-project/))*
+
+
+<img src="media/mic.webp" alt="top level block diagram" width="200"/>  <img src="media/amp.webp" alt="top level block diagram" width="200"/>  <img src="media/spkr.webp" alt="top level block diagram" width="200"/>
 
 Figure 2. Used [I2S microphone](https://www.laskakit.cz/inmp441-modul-i2s-mikrofonu/)
 
-<div align="center">
-<img src="media/amp.webp" alt="top level block diagram" width="200"/>
+
 
 Figure 3. Used [I2S amplifier ](https://www.laskakit.cz/max98357-i2s-mono-zesilovac-3w/)
 
-<div align="center">
-<img src="media/spkr.webp" alt="top level block diagram" width="200"/>
+
 
 Figure 4. Used [3W 4Ω speaker](https://www.laskakit.cz/reproduktor-3w-4-40mm/)
 
