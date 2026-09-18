@@ -1,5 +1,5 @@
 # ESP32-S3-INTERCOM
-Half-Duplex communication device avalible only during a specified time interval.
+Full-Duplex communication device avalible only during a specified time interval.
 
 <div align="center">
 <img src="media/S3-DEVKIT_Pinout.png" alt="top level block diagram" width="800"/>
