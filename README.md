@@ -15,15 +15,9 @@ Obr. 2 Blokové schéma funkce ‎ ‎ ‎ ‎ ‎ ‎‎  ‎‎ ‎  Obr. 3 Pr
 
 <img src="media/mic.webp" alt="top level block diagram" width="200"/>  <img src="media/amp.webp" alt="top level block diagram" width="200"/>  <img src="media/spkr.webp" alt="top level block diagram" width="200"/>
 
-Figure 2. Used [I2S microphone](https://www.laskakit.cz/inmp441-modul-i2s-mikrofonu/)
+Figure 2. Used [I2S microphone](https://www.laskakit.cz/inmp441-modul-i2s-mikrofonu/)  Figure 3. Used [I2S amplifier ](https://www.laskakit.cz/max98357-i2s-mono-zesilovac-3w/)  Figure 4. Used [3W 4Ω speaker](https://www.laskakit.cz/reproduktor-3w-4-40mm/)
 
 
-
-Figure 3. Used [I2S amplifier ](https://www.laskakit.cz/max98357-i2s-mono-zesilovac-3w/)
-
-
-
-Figure 4. Used [3W 4Ω speaker](https://www.laskakit.cz/reproduktor-3w-4-40mm/)
 
 <div align="center">
 <img src="media/prototype1.jpg" alt="top level block diagram" width="800"/>
